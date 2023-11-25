@@ -220,7 +220,6 @@ mpt.lpr-reg.ru
 mu-lnr.su 
 mvdlnr.ru 
 mzlnr.su 
-nslnr.su 
 pervomaysklnr.su 
 pflnr.su 
 rov-adm.su
