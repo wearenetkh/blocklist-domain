@@ -696,3 +696,4 @@ pari2win.net
 settlepay.app
 wallet.settleplay.app
 vandalvape.com.ua
+vandalvape.com
