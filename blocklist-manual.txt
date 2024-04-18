@@ -3819,9 +3819,9 @@ gidonline.xyz
 gidonline2.com 
 gidonline720.ru
 limehd.tv
-htpps:www.ivi.ru
-htpps:www.ivi.az
-htpps:www.ivi.tv
+www.ivi.ru
+www.ivi.az
+www.ivi.tv
 www.tvigle.ru
 premier.one
 start.ru
