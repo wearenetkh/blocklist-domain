@@ -2565,6 +2565,7 @@ dutymarket.pro
 dutyshop.pro
 dzakupivli1.com.ua
 dzhankoy.rk.gov.ru
+e-news.pro
 e-news.su
 e.kinogo2019.com
 eadaily.com
@@ -4094,6 +4095,7 @@ krtech.ru
 krvesna.rk.gov.ru
 krym.fas.gov.ru
 ktcr.lprreg.ru
+kuna.io
 kundun.xyz
 kupit-spirt.net.ua
 kvitum.com
@@ -4784,6 +4786,7 @@ mintrud.gov-dpr.ru
 mintrud.lpr-reg.ru
 mintrudlnr.su
 minuet.biz
+minuet.pro
 minuet.top
 minzdrav.govdnr.ru
 minzdrav.lpr-reg.ru
@@ -6013,7 +6016,9 @@ reg.roszdravnadzor.ru
 register.betfair.com
 rekocasino.com
 rel.org.ua
+relaxik.me
 relaxik.net
+relaxkiev.biz
 relaxkiev.com
 ren.tv
 repdev.com.ua
@@ -6467,6 +6472,7 @@ sexbloggersmeeting.com
 sexkiev.com
 sexkiev.net
 sexkiev.org
+sexkieva.net
 sexkompas.org
 sexzakaz.net
 sf.education
