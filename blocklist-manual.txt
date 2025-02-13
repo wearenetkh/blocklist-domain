@@ -3341,8 +3341,6 @@ timixan.fun
 titanpoker.com
 tk-union.tv
 tlintegration-eu.com
-t.me/ELFBARuaTORG
-t.me/joinchat/gNBhB-e4XtszZDly
 tobacos.com.ua
 tobacos.net.ua
 tobacos.org
@@ -4570,7 +4568,7 @@ f1casino20.club
 luckyblock.com
 marvelcasino14.games
 marvelcasino15.games
-lobby.goldeneuro.com:3072/lobby/
+lobby.goldeneuro.com
 banzaicasino.com
 bch.games
 goslot.com
@@ -4858,7 +4856,7 @@ tabake.com.ua
 sigmir.com.ua
 bosstabaco.com.ua
 mr-tabak.com.ua
-alkobox.com/sigarety
+alkobox.com
 tobacco-shop.com.ua
 www.sigarety.cc
 tutunok.com
