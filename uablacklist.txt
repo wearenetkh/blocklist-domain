@@ -763,6 +763,7 @@ alcox.shop
 alcozym.com
 aleksey-kordon-2025.tilda.ws
 aleksey-kordons-ua.tilda.ws
+aleksey-kordonsua.tilda.ws
 alexalmaz.com.ua
 alexanderplay.com
 alexandra.pl.ua
@@ -4205,6 +4206,7 @@ leetbit.io
 legal-casino.com.ua
 legal-kordon.site
 legal-position24.com
+legalkordon.site
 legalnyi-vyizd.online
 legislation.to
 legzo.casino
@@ -6451,6 +6453,7 @@ russian-insider.com
 russian.oplot.tv
 russkoeporno.pro
 rusvesna.su
+rutube.ru
 ruxpert.ru
 rv3k0r1.com
 rvcaasino.com
